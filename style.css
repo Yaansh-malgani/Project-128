@@ -1,0 +1,17 @@
+.heading 
+{
+    width: 100%;
+    margin: 0px;
+}
+
+#instruction
+{
+    color: black;
+}
+
+body 
+{
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
